@@ -1,2 +1,2 @@
 # CoffeeShop
-Python based beginner project for Coffee Order
+Python based beginner project for Coffee Order using OOP paradigma.
